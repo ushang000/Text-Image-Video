@@ -20,7 +20,7 @@ https://colab.research.google.com/drive/1PVfr7X0eKD1CCEi4xamLeDYyTCO9VVOW#scroll
 
 ![image](https://user-images.githubusercontent.com/7991891/229455376-d5b1e6f8-d6c4-4c93-8265-87eda89bde75.png)
 
-查看当前使用的机器。一般是从 K80、T4、P100、V100 中随机分配一个。
+查看当前使用的机器。一般是从 K80、T4、P100、V100 中随机分配一个。如果你分到的是V100，那么恭喜你，放个鞭炮庆祝下。
 
 安装对应的库
 
@@ -68,4 +68,5 @@ https://colab.research.google.com/drive/1Mga07Z5yPRtIMuYyeTb3QyUzdK4omUhx#scroll
 
 ![image](https://user-images.githubusercontent.com/7991891/229457143-b936fb3b-2aed-4a03-804a-996d2072271b.png)
 
-
+最后的最后，如果里面的代码和文本有更改，最好保存到云端硬盘上，方面查看修改记录，内容修改都是自动保存的，非常棒！
+下次也可以直接从云端硬盘直接进入。
