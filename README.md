@@ -3,6 +3,17 @@
 
 用Colab免费部署自己的AI绘画云平台—— Stable Diffusion
 
+先看效果：
+
+prompt:a photo of an astronaut riding a horse on mars
+
+![image](https://user-images.githubusercontent.com/7991891/229460225-45713c23-a9cf-48e7-b834-c336483a5230.png)
+
+prompt:A panda eating bamboo on a rock.
+
+![image](https://user-images.githubusercontent.com/7991891/229460489-c573eba6-ad3c-4df8-a711-9e90c3fc5c7c.png)
+
+
 文字生成图片：
 
 Text To Image
