@@ -3,13 +3,11 @@
 
 用Colab免费部署自己的AI绘画云平台—— Stable Diffusion
 
+文字生成图片：
+
 Text To Image
 https://colab.research.google.com/drive/1PVfr7X0eKD1CCEi4xamLeDYyTCO9VVOW#scrollTo=vDflx4IKH7Il
 
-
-
-Text To Video
-https://colab.research.google.com/drive/1Mga07Z5yPRtIMuYyeTb3QyUzdK4omUhx#scrollTo=RfcIogNetLYl
 
 进入链接后点击右上角的连接按钮
 ![image](https://user-images.githubusercontent.com/7991891/229448114-82e54dde-df36-425f-aa5d-54948b641d44.png)
@@ -48,5 +46,26 @@ https://colab.research.google.com/drive/1Mga07Z5yPRtIMuYyeTb3QyUzdK4omUhx#scroll
 
 ![image](https://user-images.githubusercontent.com/7991891/229454620-eee03a11-3fcb-42f5-a0f5-e36b44d0fdf6.png)
 
+
+文字生成视频：
+
+Text To Video
+https://colab.research.google.com/drive/1Mga07Z5yPRtIMuYyeTb3QyUzdK4omUhx#scrollTo=RfcIogNetLYl
+
+点击上面链接进入，运行方式跟文字生成图片的一样。
+
+拉取模型
+
+![image](https://user-images.githubusercontent.com/7991891/229456401-cdaa5bb8-49de-415d-8134-97b3fa2a1d01.png)
+
+模型地址
+
+![image](https://user-images.githubusercontent.com/7991891/229456680-e9236714-07db-4607-96e5-529ae71c102c.png)
+
+最后是生成视频代码及效果
+
+![image](https://user-images.githubusercontent.com/7991891/229457052-298cd810-010d-44f5-b568-d2835e86846c.png)
+
+![image](https://user-images.githubusercontent.com/7991891/229457143-b936fb3b-2aed-4a03-804a-996d2072271b.png)
 
 
