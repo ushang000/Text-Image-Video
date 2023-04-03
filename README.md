@@ -20,7 +20,8 @@ https://colab.research.google.com/drive/1Mga07Z5yPRtIMuYyeTb3QyUzdK4omUhx#scroll
 
 然后运行第一个脚本
 
-![image](https://user-images.githubusercontent.com/7991891/229449141-c6f937a2-a8a9-4eaa-a76b-636a7b09f608.png)
+![image](https://user-images.githubusercontent.com/7991891/229455376-d5b1e6f8-d6c4-4c93-8265-87eda89bde75.png)
+
 查看当前使用的机器。一般是从 K80、T4、P100、V100 中随机分配一个。
 
 安装对应的库
